@@ -9,6 +9,6 @@
                  That's why I thought of using GitHub, so I can engage in the love making with programming languages forever.
 
 <!---
-Bandara08/Bandara08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bandara08/Know_about_me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
